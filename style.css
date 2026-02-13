@@ -1,0 +1,32 @@
+/* Reset default browser spacing */
+body {
+    margin:0
+    font-family: Arial, sans-serif;
+    background-color:  #f4f4f4;
+}
+
+
+/* Header */
+header {
+    background-color:  #2c3e50;
+    color: white;
+    padding: 20px
+    text align: center;
+}
+
+/* Navigation */
+nav {
+   background-color:  #34495e;
+   padding: 10px
+   text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration : underline;
